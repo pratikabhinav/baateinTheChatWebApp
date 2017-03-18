@@ -1,5 +1,5 @@
 # baateinTheChatWebApp
-Created a chat web app, using the Firebase platform. <br>
+Created a chat web app, using the Firebase platform. <br> <br>
 App features :
 <ul>
 <li>Syncs data using the Firebase Realtime Database and Cloud Storage.
