@@ -8,6 +8,6 @@ App features :
 <li>Sends notifications when the web app is not in the foreground.
 </ul>
 
-Deployed the web app on Firebase static hosting. You can find the complete app at <br><a href="https://friendlychat-70573.firebaseapp.com/" target="_blank">Baatein</a>
+Deployed the web app on Firebase static hosting. You can find the complete app at <a href="https://friendlychat-70573.firebaseapp.com/" target="_blank">Baatein</a>
 
 <h6>I took a lot of help from the resources available at https://codelabs.developers.google.com/ as this was my first Firebase project. </h6>
